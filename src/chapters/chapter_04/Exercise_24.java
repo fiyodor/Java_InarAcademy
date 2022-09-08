@@ -20,7 +20,6 @@ public class Exercise_24 {
 		
 		String city3 = input.nextLine();
 		
-		String lastCity = city3;
 
 		String temp;
 		
