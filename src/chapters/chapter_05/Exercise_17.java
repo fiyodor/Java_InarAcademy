@@ -25,7 +25,7 @@ public class Exercise_17 {
 				System.out.printf("%3d",j);
 				
 				if (j == 1) {
-				
+					
 					for (int k = 2; k <= i; k++) {
 					
 						System.out.printf("%3d", k);
